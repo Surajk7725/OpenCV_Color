@@ -19,6 +19,6 @@ This Python script demonstrates color conversion using OpenCV, a popular compute
 
 *   `cv2.cvtColor(img, cv2.COLOR_RGB2BGR)`: Converts the original RGB image to BGR.
 
-*   `plt.imshow(img_rgb), plt.imshow(img_rgb1)`, plt.imshow(img_rgb2): Displays the three converted images using Matplotlib.
+*   `plt.imshow(img_rgb), plt.imshow(img_rgb1), plt.imshow(img_rgb2)`: Displays the three converted images using Matplotlib.
 
 
